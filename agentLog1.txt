@@ -1,0 +1,10 @@
+Thu Nov 23 11:45	Agent:	 hi
+Thu Nov 23 11:45	Agent:	 client 1
+Thu Nov 23 11:53	Agent:	 okay
+Thu Nov 23 11:53	Agent:	 we talk here
+Thu Nov 23 11:53	Agent:	 ready?
+Thu Nov 23 11:53	Agent:	 channel 1
+Thu Nov 23 11:53	Agent:	 can hear? 
+Thu Nov 23 11:53	Agent:	 wait
+Thu Nov 23 11:53	Agent:	 u agent now
+Thu Nov 23 12:25	Agent:	 Hello there, Messi.
